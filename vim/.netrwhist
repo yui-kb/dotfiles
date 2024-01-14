@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/yui/.vim/ultisnips'
+let g:netrw_dirhist_3='/Users/yui/.vim'
+let g:netrw_dirhist_2='/Users/yui/Desktop/notes/revision-notes/cs/ads/part4'
+let g:netrw_dirhist_1='/Users/yui/Desktop/notes/revision-notes/cs/ads'
+let g:netrw_dirhist_0='/Users/yui/Desktop/notes/revision-notes/cs'
+let g:netrw_dirhist_9='/Users/yui/Desktop/notes/revision-notes'
+let g:netrw_dirhist_8='/Users/yui/Desktop/notes'
+let g:netrw_dirhist_7='/Users/yui/Desktop'
+let g:netrw_dirhist_6='/Users/yui/Desktop/notes_old'
+let g:netrw_dirhist_5='/Users/yui/Desktop/notes_old/algorithms&datastrctures'
