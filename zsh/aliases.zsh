@@ -9,7 +9,7 @@ alias l.='eza -a | egrep "^\."'
 alias ez="$EDITOR ~/.zshrc"
 alias sz="source ~/.zshrc"     
 alias ea="$EDITOR $ZSH_DIR/aliases.zsh"
-alias ev="$EDITOR ~/.config/nvim/init.vim"
+alias ev="$EDITOR ~/.vimrc"
 alias es="$EDITOR $ZSH_DIR/scripts.zsh"
 #alias {vim,nvim}="$EDITOR"
 
@@ -43,7 +43,19 @@ alias nt="open -a iterm ."
 alias nw="open -a iterm -n $HOME"
 
 alias lect="source ~/uni.sh"
+alias l="source ~/uni.sh"
 
-alias skim="/Applications/Skim.app/Contents/MacOS/Skim"
+#alias skim="/Applications/Skim.app/Contents/MacOS/Skim"
+alias skim="open -a Skim.app"
 
 alias cat=bat
+
+alias today="calcurse -a"
+
+alias c="clear"
+
+alias macfag="find . -name '.DS_Store' -print -delete"
+
+alias botany="python3 $HOME/nerd-shit/botany/botany.py"
+
+alias ranger="yazi"
