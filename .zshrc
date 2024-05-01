@@ -27,7 +27,7 @@ znap eval thefuck 'thefuck --alias'
 
 znap eval zoxide 'zoxide init zsh --cmd cd'
 
-calcurse -a
+#calcurse -a
 
 #setopt PROMPT_SUBST
 

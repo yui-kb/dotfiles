@@ -59,3 +59,7 @@ alias macfag="find . -name '.DS_Store' -print -delete"
 alias botany="python3 $HOME/nerd-shit/botany/botany.py"
 
 alias ranger="yazi"
+
+alias mdl="yt-dlp -x --audio-format mp3 --audio-quality -"
+
+dir() { mkdir "$@" && cd "$@" }

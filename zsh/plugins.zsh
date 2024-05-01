@@ -19,8 +19,6 @@ znap source zshzoo/macos
 
 znap source redxtech/zsh-unix-simple
 
-znap source enrico9034/zsh-watch-plugin
-
 znap source mattmc3/zman
 
 znap source andydecleyre/zpy
