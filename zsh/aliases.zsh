@@ -65,8 +65,3 @@ alias mdl="yt-dlp -x --audio-format mp3 --audio-quality -"
 dir() { mkdir "$@" && cd "$@" }
 
 apt-get() {brew formulae | fzf --query=$1 -m --preview 'brew info {1}' | xargs -ro brew install}
-
-msgdad() {
-        message_content="$*"
-        imessage -c 07958500386 -t "$message_content"
-}
